@@ -17,4 +17,4 @@ Any other 2-wheel drive or 4 wheel drive chassis can be used to build your artob
 
 **Support**
 
-For any questions please email at [support@artofcircuits.com] (support@artofcircuits.com)
+For any questions please email at [support@artofcircuits.com] (http://artofcircuits.com/contact-us)
